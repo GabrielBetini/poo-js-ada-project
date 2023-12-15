@@ -42,3 +42,15 @@ Este é um projeto bancário desenvolvido em JavaScript, utilizando conceitos de
 
 ```bash
 node index.js
+```
+
+## Testando o Programa 🧪
+
+O projeto inclui uma função que realiza operações de depósito e saque em contas, demonstrando o funcionamento das classes e suas interações.
+
+```bash
+testaPrograma();
+```
+
+
+
