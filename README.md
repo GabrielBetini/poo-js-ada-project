@@ -38,10 +38,10 @@ Este é um projeto bancário desenvolvido em JavaScript, utilizando conceitos de
 
 1. Clone este repositório.
 2. Abra o projeto em um ambiente de desenvolvimento JavaScript.
-3. Execute o arquivo principal (por exemplo, `index.js`) no console.
+3. Execute o arquivo principal `finPoo.js` no console.
 
 ```bash
-node index.js
+node finPoo.js
 ```
 
 ## Testando o Programa 🧪
